@@ -42,8 +42,4 @@ This project involves analyzing hotel booking data to understand booking trends,
 
 Access the project and view the analysis [here](https://colab.research.google.com/drive/1cinGObCaaiM0GthBp66Ul2gQthMvEl_T#scrollTo=5c4717cb-dc7a-45e4-b3e6-253d9393e1bd).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
